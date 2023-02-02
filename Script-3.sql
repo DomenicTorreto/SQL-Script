@@ -17,5 +17,4 @@ WHERE nickname NOT LIKE '% %';
 SELECT name FROM track
 WHERE name LIKE '%my%'; 
 
-SELECT name FROM trac
-WHERE name LIKE '%мой%'; 
+ 
